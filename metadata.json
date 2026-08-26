@@ -1,0 +1,6 @@
+{
+  "name": "Sonar Thali - Royal Indian Gastronomy & Fine Dining",
+  "description": "A luxury Royal Indian Fine Dining & Thali Experience featuring bespoke table reservations, signature royal thalis, interactive menu, real-time feedback wall, and gourmet delivery.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
